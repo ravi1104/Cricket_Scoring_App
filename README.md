@@ -25,6 +25,10 @@ A backend service built with **NestJS**, **Mongoose**, and **Redis** to manage c
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ravi1104/Cricket_Scoring_App.git
 cd backend
 npm install
+npm start
+cd backend
+npm install
+npm run dev
